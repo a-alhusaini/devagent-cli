@@ -2,8 +2,6 @@
 
 The DevAgent CLI tool. Use the power of DevAgent, from the comfort of your CLI!
 
-## Table of Contents
-
 ## Installation
 
 1. Make sure you have [Go](https://go.dev/dl/) installed on your system.
